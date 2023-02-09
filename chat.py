@@ -3,7 +3,10 @@ import pyttsx3
 import time
 
 # Set the API key
-openai.api_key = "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"
+openai.api_key = ""
+
+
+
 
 people = "You: \n"
 ai = "openai: \n"
