@@ -6,8 +6,6 @@ import time
 openai.api_key = ""
 
 
-
-
 people = "You: \n"
 ai = "openai: \n"
 
