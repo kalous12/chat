@@ -6,7 +6,7 @@
 # 下面2个是鉴权信息
 APPID = 30371126
 
-APPKEY = ""
+APPKEY = "bgPIiQbjfMymbW4fXfI8f4oZ"
 
 # 语言模型 ， 可以修改为其它语言模型测试，如远场普通话19362
 DEV_PID = 15372
